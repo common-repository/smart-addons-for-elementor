@@ -1,0 +1,9 @@
+
+= 1.0.2 - 15 June 2021 =
+- WordPress 6.0 compatibility check 
+
+= 1.0.1 - 15 June 2021 =
+- Bug fixed. 
+
+= 1.0.0 - 16 December 2019 =
+- Initial Release

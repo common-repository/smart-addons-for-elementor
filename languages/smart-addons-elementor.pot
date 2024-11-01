@@ -1,0 +1,1492 @@
+# Copyright (C) 2019 Exclusive Addons Elementor
+# This file is distributed under the same license as the Exclusive Addons Elementor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Exclusive Addons Elementor\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: exclusive-addons-elementor.php:227
+msgid "Exclusive Addons"
+msgstr ""
+
+#: exclusive-addons-elementor.php:247, elements/post-grid/post-grid.php:31, elements/post-timeline/post-timeline.php:31
+msgid "Settings"
+msgstr ""
+
+#: exclusive-addons-elementor.php:334
+msgid "<strong>Exclusive Addons for Elementor</strong> won't work without the help of <strong>Elementor</strong> plugin. Please activate Elementor."
+msgstr ""
+
+#: exclusive-addons-elementor.php:335
+msgid "Activate Elementor"
+msgstr ""
+
+#: exclusive-addons-elementor.php:341
+msgid "<strong>Exclusive Addons for Elementor</strong> won't work without the help of <strong>Elementor</strong> plugin. Please install Elementor."
+msgstr ""
+
+#: exclusive-addons-elementor.php:342
+msgid "Install Elementor"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: exclusive-addons-elementor.php:365, exclusive-addons-elementor.php:390
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: exclusive-addons-elementor.php:366, exclusive-addons-elementor.php:391
+msgid "Exclusive Addons Elementor"
+msgstr ""
+
+#: exclusive-addons-elementor.php:367
+msgid "Elementor"
+msgstr ""
+
+#: exclusive-addons-elementor.php:392
+msgid "PHP"
+msgstr ""
+
+#: admin/dashboard-settings.php:110
+msgid "Exclusive Addons Settings"
+msgstr ""
+
+#: admin/dashboard-settings.php:115
+msgid "Save Settings"
+msgstr ""
+
+#: includes/helper-class.php:37
+msgid "Select a Form"
+msgstr ""
+
+#: includes/helper-class.php:43
+msgid "Create a Form First"
+msgstr ""
+
+#: includes/helper-class.php:222
+msgid "No Contents Found"
+msgstr ""
+
+#: elements/accordion/accordion.php:13
+msgid "Accordion"
+msgstr ""
+
+#: elements/accordion/accordion.php:35, elements/button/button.php:35, elements/team-carousel/team-carousel.php:31, elements/testimonial-carousel/testimonial-carousel.php:34
+msgid "Contents"
+msgstr ""
+
+#: elements/accordion/accordion.php:44
+msgid "Accordion Tab Title 1"
+msgstr ""
+
+#: elements/accordion/accordion.php:45
+msgid "Accordion Tab Title 2"
+msgstr ""
+
+#: elements/accordion/accordion.php:46
+msgid "Accordion Tab Title 3"
+msgstr ""
+
+#: elements/accordion/accordion.php:51
+msgid "Active as Default"
+msgstr ""
+
+#: elements/accordion/accordion.php:58, elements/dual-heading/dual-heading.php:77, elements/heading/heading.php:69, elements/tabs/tabs.php:147
+msgid "Enable Icon"
+msgstr ""
+
+#: elements/accordion/accordion.php:65, elements/button/button.php:54, elements/dual-heading/dual-heading.php:87, elements/flipbox/flipbox.php:39, elements/flipbox/flipbox.php:83, elements/heading/heading.php:79, elements/infobox/infobox.php:41, elements/infobox/infobox.php:82, elements/pricing-table/pricing-table.php:55, elements/tabs/tabs.php:67, elements/tabs/tabs.php:79, elements/team-member/team-member.php:124, elements/tooltip/tooltip.php:39, elements/tooltip/tooltip.php:71
+msgid "Icon"
+msgstr ""
+
+#: elements/accordion/accordion.php:74, elements/accordion/accordion.php:76, elements/tabs/tabs.php:99, elements/tabs/tabs.php:101
+msgid "Tab Title"
+msgstr ""
+
+#: elements/accordion/accordion.php:81, elements/tabs/tabs.php:106
+msgid "Tab Content"
+msgstr ""
+
+#: elements/accordion/accordion.php:83, elements/tabs/tabs.php:108
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio, neque qui velit. Magni dolorum quidem ipsam eligendi, totam, facilis laudantium cum accusamus ullam voluptatibus commodi numquam, error, est. Ea, consequatur."
+msgstr ""
+
+#: elements/accordion/accordion.php:100, elements/card/card.php:130, elements/countdown-timer/countdown-timer.php:60, elements/dual-heading/dual-heading.php:106, elements/flipbox/flipbox.php:205, elements/google-maps/google-maps.php:182, elements/heading/heading.php:97, elements/infobox/infobox.php:134, elements/post-carousel/post-carousel.php:312, elements/post-grid/post-grid.php:157, elements/post-timeline/post-timeline.php:140, elements/pricing-table/pricing-table.php:242, elements/progress-bar/progress-bar.php:65, elements/tabs/tabs.php:124, elements/team-carousel/team-carousel.php:222, elements/team-member/team-member.php:193, elements/testimonial-carousel/testimonial-carousel.php:249, elements/tooltip/tooltip.php:214
+msgid "General Styles"
+msgstr ""
+
+#: elements/accordion/accordion.php:108, elements/card/card.php:137, elements/countdown-timer/countdown-timer.php:68, elements/heading/heading.php:104, elements/infobox/infobox.php:141, elements/post-carousel/post-carousel.php:320, elements/post-grid/post-grid.php:165, elements/pricing-table/pricing-table.php:249, elements/tabs/tabs.php:132, elements/team-carousel/team-carousel.php:229, elements/team-member/team-member.php:200, elements/testimonial-carousel/testimonial-carousel.php:256
+msgid "Style Preset"
+msgstr ""
+
+#: elements/accordion/accordion.php:113, elements/card/card.php:141, elements/countdown-timer/countdown-timer.php:72, elements/infobox/infobox.php:145, elements/post-carousel/post-carousel.php:324, elements/post-grid/post-grid.php:169, elements/pricing-table/pricing-table.php:253, elements/tabs/tabs.php:137
+msgid "Style 1"
+msgstr ""
+
+#: elements/accordion/accordion.php:114, elements/card/card.php:142, elements/countdown-timer/countdown-timer.php:73, elements/infobox/infobox.php:146, elements/post-carousel/post-carousel.php:325, elements/post-grid/post-grid.php:170, elements/pricing-table/pricing-table.php:254, elements/tabs/tabs.php:138
+msgid "Style 2"
+msgstr ""
+
+#: elements/accordion/accordion.php:115, elements/card/card.php:143, elements/infobox/infobox.php:147, elements/pricing-table/pricing-table.php:255, elements/tabs/tabs.php:139
+msgid "Style 3"
+msgstr ""
+
+#: elements/accordion/accordion.php:116, elements/infobox/infobox.php:148, elements/pricing-table/pricing-table.php:256
+msgid "Style 4"
+msgstr ""
+
+#: elements/accordion/accordion.php:132
+msgid "Tab Style"
+msgstr ""
+
+#: elements/accordion/accordion.php:146, elements/button/button.php:246, elements/contact-form-7/contact-form-7.php:466, elements/flipbox/flipbox.php:537, elements/post-carousel/post-carousel.php:179, elements/post-carousel/post-carousel.php:383, elements/post-grid/post-grid.php:226, elements/pricing-table/pricing-table.php:585, elements/tabs/tabs.php:178, elements/team-carousel/team-carousel.php:409, elements/team-carousel/team-carousel.php:544, elements/team-member/team-member.php:346, elements/tooltip/tooltip.php:267
+msgid "Normal"
+msgstr ""
+
+#: elements/accordion/accordion.php:150, elements/accordion/accordion.php:198, elements/accordion/accordion.php:260, elements/button/button.php:293, elements/contact-form-7/contact-form-7.php:318, elements/contact-form-7/contact-form-7.php:473, elements/contact-form-7/contact-form-7.php:519, elements/contact-form-7/contact-form-7.php:639, elements/contact-form-7/contact-form-7.php:682, elements/countdown-timer/countdown-timer.php:96, elements/flipbox/flipbox.php:554, elements/flipbox/flipbox.php:596, elements/post-timeline/post-timeline.php:341, elements/pricing-table/pricing-table.php:296, elements/pricing-table/pricing-table.php:547, elements/pricing-table/pricing-table.php:602, elements/pricing-table/pricing-table.php:645, elements/tabs/tabs.php:195, elements/tabs/tabs.php:240, elements/tabs/tabs.php:321, elements/team-carousel/team-carousel.php:258, elements/team-carousel/team-carousel.php:550, elements/team-member/team-member.php:231, elements/team-member/team-member.php:351, elements/testimonial-carousel/testimonial-carousel.php:298, elements/tooltip/tooltip.php:271, elements/tooltip/tooltip.php:306
+msgid "Background Color"
+msgstr ""
+
+#: elements/accordion/accordion.php:161, elements/accordion/accordion.php:209, elements/accordion/accordion.php:272, elements/button/button.php:251, elements/button/button.php:281, elements/contact-form-7/contact-form-7.php:329, elements/contact-form-7/contact-form-7.php:485, elements/contact-form-7/contact-form-7.php:531, elements/contact-form-7/contact-form-7.php:623, elements/contact-form-7/contact-form-7.php:697, elements/dual-heading/dual-heading.php:167, elements/dual-heading/dual-heading.php:213, elements/dual-heading/dual-heading.php:259, elements/flipbox/flipbox.php:542, elements/flipbox/flipbox.php:584, elements/post-carousel/post-carousel.php:388, elements/post-carousel/post-carousel.php:525, elements/post-carousel/post-carousel.php:584, elements/post-carousel/post-carousel.php:605, elements/post-grid/post-grid.php:231, elements/post-grid/post-grid.php:368, elements/post-grid/post-grid.php:427, elements/post-grid/post-grid.php:448, elements/pricing-table/pricing-table.php:590, elements/pricing-table/pricing-table.php:633, elements/tabs/tabs.php:183, elements/tabs/tabs.php:228, elements/tabs/tabs.php:332, elements/tooltip/tooltip.php:282, elements/tooltip/tooltip.php:317, elements/tooltip/tooltip.php:424
+msgid "Text Color"
+msgstr ""
+
+#: elements/accordion/accordion.php:172, elements/accordion/accordion.php:220, elements/dual-heading/dual-heading.php:114, elements/flipbox/flipbox.php:260, elements/flipbox/flipbox.php:412, elements/heading/heading.php:118, elements/team-carousel/team-carousel.php:565, elements/team-carousel/team-carousel.php:598, elements/team-member/team-member.php:366, elements/team-member/team-member.php:397, elements/testimonial-carousel/testimonial-carousel.php:437
+msgid "Icon Color"
+msgstr ""
+
+#: elements/accordion/accordion.php:191, elements/button/button.php:276, elements/contact-form-7/contact-form-7.php:512, elements/flipbox/flipbox.php:579, elements/post-carousel/post-carousel.php:213, elements/post-carousel/post-carousel.php:400, elements/post-grid/post-grid.php:243, elements/pricing-table/pricing-table.php:628, elements/team-carousel/team-carousel.php:443, elements/team-carousel/team-carousel.php:577, elements/team-member/team-member.php:377, elements/tooltip/tooltip.php:302
+msgid "Hover"
+msgstr ""
+
+#: elements/accordion/accordion.php:252, elements/flipbox/flipbox.php:468
+msgid "Content Style"
+msgstr ""
+
+#: elements/button/button.php:14, elements/flipbox/flipbox.php:529, elements/pricing-table/pricing-table.php:202, elements/pricing-table/pricing-table.php:569
+msgid "Button"
+msgstr ""
+
+#: elements/button/button.php:43, elements/flipbox/flipbox.php:116, elements/pricing-table/pricing-table.php:209
+msgid "Button Text"
+msgstr ""
+
+#: elements/button/button.php:47
+msgid "Enter button text"
+msgstr ""
+
+#: elements/button/button.php:64
+msgid "Link URL"
+msgstr ""
+
+#: elements/button/button.php:83
+msgid "Styles & Effects"
+msgstr ""
+
+#: elements/button/button.php:91
+msgid "Button Effect"
+msgstr ""
+
+#: elements/button/button.php:95
+msgid "Effect 1"
+msgstr ""
+
+#: elements/button/button.php:96
+msgid "Effect 2"
+msgstr ""
+
+#: elements/button/button.php:97
+msgid "Effect 3"
+msgstr ""
+
+#: elements/button/button.php:98
+msgid "Effect 4"
+msgstr ""
+
+#: elements/button/button.php:99
+msgid "Effect 5"
+msgstr ""
+
+#: elements/button/button.php:100
+msgid "Effect 6"
+msgstr ""
+
+#: elements/button/button.php:101
+msgid "Effect 7"
+msgstr ""
+
+#: elements/button/button.php:102
+msgid "Effect 8"
+msgstr ""
+
+#: elements/button/button.php:103
+msgid "Effect 9"
+msgstr ""
+
+#: elements/button/button.php:104
+msgid "Effect 10"
+msgstr ""
+
+#: elements/button/button.php:105
+msgid "Effect 11"
+msgstr ""
+
+#: elements/button/button.php:106
+msgid "Effect 12"
+msgstr ""
+
+#: elements/button/button.php:125, elements/progress-bar/progress-bar.php:155, elements/progress-bar/progress-bar.php:186
+msgid "Width"
+msgstr ""
+
+#: elements/button/button.php:152, elements/contact-form-7/contact-form-7.php:267, elements/dual-heading/dual-heading.php:126, elements/heading/heading.php:143, elements/post-carousel/post-carousel.php:479, elements/post-grid/post-grid.php:322, elements/post-timeline/post-timeline.php:302, elements/tooltip/tooltip.php:122
+msgid "Alignment"
+msgstr ""
+
+#: elements/button/button.php:157, elements/contact-form-7/contact-form-7.php:271, elements/dual-heading/dual-heading.php:131, elements/heading/heading.php:148, elements/post-carousel/post-carousel.php:427, elements/post-carousel/post-carousel.php:483, elements/post-grid/post-grid.php:270, elements/post-grid/post-grid.php:326, elements/post-timeline/post-timeline.php:250, elements/post-timeline/post-timeline.php:306, elements/tooltip/tooltip.php:126, elements/tooltip/tooltip.php:200
+msgid "Left"
+msgstr ""
+
+#: elements/button/button.php:161, elements/contact-form-7/contact-form-7.php:275, elements/dual-heading/dual-heading.php:135, elements/heading/heading.php:152, elements/post-carousel/post-carousel.php:431, elements/post-carousel/post-carousel.php:487, elements/post-grid/post-grid.php:274, elements/post-grid/post-grid.php:330, elements/post-timeline/post-timeline.php:254, elements/post-timeline/post-timeline.php:310, elements/tooltip/tooltip.php:130
+msgid "Center"
+msgstr ""
+
+#: elements/button/button.php:165, elements/contact-form-7/contact-form-7.php:279, elements/dual-heading/dual-heading.php:139, elements/heading/heading.php:156, elements/post-carousel/post-carousel.php:435, elements/post-carousel/post-carousel.php:491, elements/post-grid/post-grid.php:278, elements/post-grid/post-grid.php:334, elements/post-timeline/post-timeline.php:258, elements/post-timeline/post-timeline.php:314, elements/tooltip/tooltip.php:134, elements/tooltip/tooltip.php:201
+msgid "Right"
+msgstr ""
+
+#: elements/button/button.php:180, elements/contact-form-7/contact-form-7.php:342, elements/contact-form-7/contact-form-7.php:579, elements/tabs/tabs.php:351, elements/tooltip/tooltip.php:249, elements/tooltip/tooltip.php:455
+msgid "Padding"
+msgstr ""
+
+#: elements/button/button.php:200, elements/contact-form-7/contact-form-7.php:383, elements/contact-form-7/contact-form-7.php:655, elements/contact-form-7/contact-form-7.php:714, elements/countdown-timer/countdown-timer.php:164, elements/tooltip/tooltip.php:357
+msgid "Border"
+msgstr ""
+
+#: elements/button/button.php:217, elements/contact-form-7/contact-form-7.php:394, elements/contact-form-7/contact-form-7.php:559, elements/countdown-timer/countdown-timer.php:175, elements/tooltip/tooltip.php:366, elements/tooltip/tooltip.php:475
+msgid "Border Radius"
+msgstr ""
+
+#: elements/button/button.php:266, elements/contact-form-7/contact-form-7.php:174, elements/countdown-timer/countdown-timer.php:128, elements/dual-heading/dual-heading.php:179, elements/dual-heading/dual-heading.php:225, elements/flipbox/flipbox.php:375, elements/flipbox/flipbox.php:509, elements/infobox/infobox.php:179, elements/tooltip/tooltip.php:437
+msgid "Background"
+msgstr ""
+
+#: elements/button/button.php:319, elements/countdown-timer/countdown-timer.php:141
+msgid "Box Shadow"
+msgstr ""
+
+#: elements/card/card.php:11
+msgid "Card"
+msgstr ""
+
+#: elements/card/card.php:27, elements/dual-heading/dual-heading.php:26, elements/flipbox/flipbox.php:334, elements/heading/heading.php:27, elements/infobox/infobox.php:25, elements/progress-bar/progress-bar.php:32, elements/tabs/tabs.php:36, elements/tabs/tabs.php:294, elements/team-member/team-member.php:26, elements/tooltip/tooltip.php:57
+msgid "Content"
+msgstr ""
+
+#: elements/card/card.php:34, elements/infobox/infobox.php:45, elements/infobox/infobox.php:58, elements/tabs/tabs.php:71, elements/tabs/tabs.php:88, elements/team-carousel/team-carousel.php:43, elements/team-member/team-member.php:33, elements/tooltip/tooltip.php:47, elements/tooltip/tooltip.php:82, elements/tooltip/tooltip.php:96
+msgid "Image"
+msgstr ""
+
+#: elements/card/card.php:55, elements/card/card.php:184, elements/contact-form-7/contact-form-7.php:94, elements/contact-form-7/contact-form-7.php:248, elements/flipbox/flipbox.php:48, elements/flipbox/flipbox.php:92, elements/flipbox/flipbox.php:293, elements/infobox/infobox.php:95, elements/infobox/infobox.php:195, elements/post-carousel/post-carousel.php:366, elements/post-grid/post-grid.php:209, elements/post-timeline/post-timeline.php:216, elements/pricing-table/pricing-table.php:42, elements/progress-bar/progress-bar.php:39, elements/progress-bar/progress-bar.php:106
+msgid "Title"
+msgstr ""
+
+#: elements/card/card.php:59
+msgid "Card Title"
+msgstr ""
+
+#: elements/card/card.php:66, elements/infobox/infobox.php:105
+msgid "Title URL"
+msgstr ""
+
+#: elements/card/card.php:68, elements/card/card.php:112, elements/dual-heading/dual-heading.php:54, elements/heading/heading.php:47, elements/infobox/infobox.php:107, elements/team-carousel/team-carousel.php:107, elements/team-carousel/team-carousel.php:124, elements/team-carousel/team-carousel.php:141, elements/team-carousel/team-carousel.php:158, elements/team-carousel/team-carousel.php:175, elements/tooltip/tooltip.php:160
+msgid "https://your-link.com"
+msgstr ""
+
+#: elements/card/card.php:80, elements/card/card.php:242
+msgid "Tag"
+msgstr ""
+
+#: elements/card/card.php:83
+msgid "Card Tag"
+msgstr ""
+
+#: elements/card/card.php:90, elements/card/card.php:214, elements/flipbox/flipbox.php:59, elements/flipbox/flipbox.php:103, elements/infobox/infobox.php:119, elements/infobox/infobox.php:226, elements/team-carousel/team-carousel.php:84, elements/team-carousel/team-carousel.php:334, elements/team-member/team-member.php:74, elements/team-member/team-member.php:309, elements/testimonial-carousel/testimonial-carousel.php:82
+msgid "Description"
+msgstr ""
+
+#: elements/card/card.php:92
+msgid "Basic description about the Card"
+msgstr ""
+
+#: elements/card/card.php:99
+msgid "Action Text"
+msgstr ""
+
+#: elements/card/card.php:103
+msgid "Details"
+msgstr ""
+
+#: elements/card/card.php:110
+msgid "Action URL"
+msgstr ""
+
+#: elements/card/card.php:152, elements/testimonial-carousel/testimonial-carousel.php:270
+msgid "Color Scheme"
+msgstr ""
+
+#: elements/card/card.php:166
+msgid "Content Background Color"
+msgstr ""
+
+#: elements/card/card.php:191, elements/card/card.php:221, elements/card/card.php:249, elements/contact-form-7/contact-form-7.php:256, elements/contact-form-7/contact-form-7.php:418, elements/countdown-timer/countdown-timer.php:218, elements/countdown-timer/countdown-timer.php:250, elements/flipbox/flipbox.php:305, elements/flipbox/flipbox.php:346, elements/flipbox/flipbox.php:439, elements/flipbox/flipbox.php:480, elements/heading/heading.php:180, elements/heading/heading.php:254, elements/infobox/infobox.php:203, elements/infobox/infobox.php:234, elements/post-carousel/post-carousel.php:467, elements/post-grid/post-grid.php:310, elements/post-timeline/post-timeline.php:290, elements/pricing-table/pricing-table.php:332, elements/pricing-table/pricing-table.php:377, elements/pricing-table/pricing-table.php:406, elements/pricing-table/pricing-table.php:442, elements/pricing-table/pricing-table.php:532, elements/progress-bar/progress-bar.php:146, elements/progress-bar/progress-bar.php:177, elements/progress-bar/progress-bar.php:208, elements/team-carousel/team-carousel.php:282, elements/team-carousel/team-carousel.php:312, elements/team-carousel/team-carousel.php:342, elements/team-member/team-member.php:257, elements/team-member/team-member.php:287, elements/team-member/team-member.php:317, elements/testimonial-carousel/testimonial-carousel.php:321, elements/testimonial-carousel/testimonial-carousel.php:351, elements/testimonial-carousel/testimonial-carousel.php:381
+msgid "Color"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:32
+msgid "Contact Form 7"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:75
+msgid "Contact Form"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:82
+msgid "Select Form"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:111, elements/contact-form-7/contact-form-7.php:603
+msgid "Errors"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:118, elements/contact-form-7/contact-form-7.php:611
+msgid "Error Messages"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:122, elements/contact-form-7/contact-form-7.php:142, elements/tooltip/tooltip.php:148
+msgid "Show"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:123, elements/contact-form-7/contact-form-7.php:143, elements/tooltip/tooltip.php:149
+msgid "Hide"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:138, elements/contact-form-7/contact-form-7.php:670
+msgid "Validation Errors"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:165
+msgid "Form Container"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:183
+msgid "Border Top Color"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:195
+msgid "Form Width"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:222
+msgid "Form Padding"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:294, elements/contact-form-7/contact-form-7.php:431, elements/post-carousel/post-carousel.php:449, elements/post-grid/post-grid.php:292, elements/post-timeline/post-timeline.php:272
+msgid "Typography"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:310
+msgid "Input & Textarea"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:359
+msgid "Field Width"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:410
+msgid "Labels"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:446
+msgid "Submit Button"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:455
+msgid "Button Typography"
+msgstr ""
+
+#: elements/contact-form-7/contact-form-7.php:497, elements/contact-form-7/contact-form-7.php:543, elements/flipbox/flipbox.php:566, elements/flipbox/flipbox.php:608, elements/pricing-table/pricing-table.php:614, elements/pricing-table/pricing-table.php:657
+msgid "Border Color"
+msgstr ""
+
+#: elements/countdown-timer/countdown-timer.php:13
+msgid "Countdown Timer"
+msgstr ""
+
+#: elements/countdown-timer/countdown-timer.php:36
+msgid "Timer Settings"
+msgstr ""
+
+#: elements/countdown-timer/countdown-timer.php:43
+msgid "Countdown Date"
+msgstr ""
+
+#: elements/countdown-timer/countdown-timer.php:46
+msgid "Set the date and time here"
+msgstr ""
+
+#: elements/countdown-timer/countdown-timer.php:81
+msgid "Divider Color"
+msgstr ""
+
+#: elements/countdown-timer/countdown-timer.php:114
+msgid "Box Style"
+msgstr ""
+
+#: elements/countdown-timer/countdown-timer.php:202
+msgid "Counter Style"
+msgstr ""
+
+#: elements/countdown-timer/countdown-timer.php:234, elements/flipbox/flipbox.php:428, elements/post-carousel/post-carousel.php:374, elements/post-grid/post-grid.php:217, elements/post-timeline/post-timeline.php:224, elements/pricing-table/pricing-table.php:324
+msgid "Title Style"
+msgstr ""
+
+#: elements/countdown-timer/countdown-timer.php:270
+msgid "Days"
+msgstr ""
+
+#: elements/countdown-timer/countdown-timer.php:272
+msgid "Hours"
+msgstr ""
+
+#: elements/dual-heading/dual-heading.php:10
+msgid "Dual Heading"
+msgstr ""
+
+#: elements/dual-heading/dual-heading.php:33, elements/dual-heading/dual-heading.php:159
+msgid "First Heading"
+msgstr ""
+
+#: elements/dual-heading/dual-heading.php:36
+msgid "First"
+msgstr ""
+
+#: elements/dual-heading/dual-heading.php:42, elements/dual-heading/dual-heading.php:205
+msgid "Second Heading"
+msgstr ""
+
+#: elements/dual-heading/dual-heading.php:45
+msgid "Second"
+msgstr ""
+
+#: elements/dual-heading/dual-heading.php:52, elements/heading/heading.php:45
+msgid "Heading URL"
+msgstr ""
+
+#: elements/dual-heading/dual-heading.php:66, elements/dual-heading/dual-heading.php:251, elements/heading/heading.php:60, elements/heading/heading.php:247
+msgid "Sub Heading"
+msgstr ""
+
+#: elements/dual-heading/dual-heading.php:70
+msgid "Add your sub heading here."
+msgstr ""
+
+#: elements/flipbox/flipbox.php:15
+msgid "Flip Box"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:31, elements/flipbox/flipbox.php:238
+msgid "Front"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:51
+msgid "Heading Front"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:52, elements/flipbox/flipbox.php:96
+msgid "Your Title"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:62, elements/flipbox/flipbox.php:106
+msgid "Click edit button to change this text. Lorem ipsum dolor sit amet consectetur adipiscing elit dolor"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:63, elements/flipbox/flipbox.php:107
+msgid "Your Description"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:64, elements/flipbox/flipbox.php:108
+msgid "Input image text here"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:74, elements/flipbox/flipbox.php:401
+msgid "Back"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:95
+msgid "Heading Back"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:119
+msgid "Click Here"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:127, elements/team-member/team-member.php:171, elements/tooltip/tooltip.php:158
+msgid "Link"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:141
+msgid "Apply Link On"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:144
+msgid "Whole Box"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:145
+msgid "Button Only"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:157
+msgid "Size"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:161
+msgid "Extra Small"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:162
+msgid "Small"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:163
+msgid "Medium"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:164
+msgid "Large"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:165
+msgid "Extra Large"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:186
+msgid "Background Overlay"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:213
+msgid "Flip Style"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:217
+msgid "Left to Right"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:218
+msgid "Right to Left"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:219
+msgid "Top to Bottom"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:220
+msgid "Bottom to Top"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:221
+msgid "Diagonal (Top to Bottom)"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:222
+msgid "Diagonal (Bottom to Top)"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:223
+msgid "Fade In Out"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:249
+msgid "Icon Style"
+msgstr ""
+
+#: elements/flipbox/flipbox.php:277
+msgid "Icon Background"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:13
+msgid "Google Maps"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:35
+msgid "Map Settings"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:44
+msgid "To display Google Map without an issue, you need to configure Google Map API key. Please configure API key from the \"API KEYS\" tab <a href=\"%s\" target=\"_blank\" rel=\"noopener\">here</a>."
+msgstr ""
+
+#: elements/google-maps/google-maps.php:52
+msgid "Address Type"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:56
+msgid "Address"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:60
+msgid "Coordinates"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:71
+msgid "Geo Address"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:74
+msgid "Paris, France"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:83
+msgid "Latitude"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:86
+msgid "51.4934"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:95
+msgid "Longitude"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:98
+msgid "0.0098"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:108
+msgid "Zoom Level"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:112
+msgid "14"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:118
+msgid "Scroll Wheel Zoom"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:121, elements/google-maps/google-maps.php:132, elements/google-maps/google-maps.php:143, elements/google-maps/google-maps.php:154, elements/google-maps/google-maps.php:165
+msgid "On"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:122, elements/google-maps/google-maps.php:133, elements/google-maps/google-maps.php:144, elements/google-maps/google-maps.php:155, elements/google-maps/google-maps.php:166
+msgid "Off"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:129
+msgid "Zoom Control"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:140
+msgid "Fullscreen Control"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:151
+msgid "Street View Controls"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:162
+msgid "Map Type Control"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:190
+msgid "Map Preset"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:192
+msgid "Default Map Themes from Google"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:195, elements/pricing-table/pricing-table.php:45
+msgid "Standard"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:196
+msgid "Silver"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:197
+msgid "Retro"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:198
+msgid "Dark"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:199
+msgid "Night"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:200
+msgid "Aubergine"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:208
+msgid "Max Width"
+msgstr ""
+
+#: elements/google-maps/google-maps.php:231
+msgid "Height"
+msgstr ""
+
+#: elements/heading/heading.php:11, elements/heading/heading.php:34, elements/heading/heading.php:173, elements/tabs/tabs.php:163
+msgid "Heading"
+msgstr ""
+
+#: elements/heading/heading.php:38
+msgid "Heading Title"
+msgstr ""
+
+#: elements/heading/heading.php:62
+msgid "Basic description about the Heading"
+msgstr ""
+
+#: elements/heading/heading.php:108
+msgid "Image/Gradient"
+msgstr ""
+
+#: elements/heading/heading.php:109
+msgid "With Separator"
+msgstr ""
+
+#: elements/heading/heading.php:110
+msgid "Text Background"
+msgstr ""
+
+#: elements/heading/heading.php:131
+msgid "Title Background"
+msgstr ""
+
+#: elements/heading/heading.php:203
+msgid "Separator Color"
+msgstr ""
+
+#: elements/heading/heading.php:218
+msgid "Background Font Size"
+msgstr ""
+
+#: elements/heading/heading.php:272
+msgid "Top Spacing"
+msgstr ""
+
+#: elements/infobox/infobox.php:10
+msgid "Info Box"
+msgstr ""
+
+#: elements/infobox/infobox.php:32
+msgid "Image or Icon"
+msgstr ""
+
+#: elements/infobox/infobox.php:37, elements/tabs/tabs.php:63
+msgid "None"
+msgstr ""
+
+#: elements/infobox/infobox.php:98
+msgid "Infobox Title"
+msgstr ""
+
+#: elements/infobox/infobox.php:121
+msgid "Basic description about the Infobox"
+msgstr ""
+
+#: elements/infobox/infobox.php:149
+msgid "Style 5"
+msgstr ""
+
+#: elements/infobox/infobox.php:158
+msgid "Icon Color Scheme"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:14
+msgid "Post Carousel"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:33
+msgid "Post Settings"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:41, elements/post-grid/post-grid.php:39, elements/post-timeline/post-timeline.php:39
+msgid "Post Type"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:52, elements/post-grid/post-grid.php:50, elements/post-timeline/post-timeline.php:50
+msgid "Posts Per Page"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:61, elements/team-carousel/team-carousel.php:375, elements/testimonial-carousel/testimonial-carousel.php:166
+msgid "Columns"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:65, elements/post-grid/post-grid.php:63, elements/testimonial-carousel/testimonial-carousel.php:108
+msgid "1"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:66, elements/post-grid/post-grid.php:64, elements/testimonial-carousel/testimonial-carousel.php:109
+msgid "2"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:67, elements/post-grid/post-grid.php:65, elements/testimonial-carousel/testimonial-carousel.php:110
+msgid "3"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:68, elements/post-grid/post-grid.php:66, elements/testimonial-carousel/testimonial-carousel.php:111
+msgid "4"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:69, elements/post-grid/post-grid.php:67, elements/testimonial-carousel/testimonial-carousel.php:112
+msgid "5"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:70, elements/post-grid/post-grid.php:68
+msgid "6"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:79, elements/post-grid/post-grid.php:77, elements/post-timeline/post-timeline.php:59
+msgid "Offset"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:88, elements/post-grid/post-grid.php:86, elements/post-timeline/post-timeline.php:68
+msgid "Author"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:100, elements/post-grid/post-grid.php:98, elements/post-timeline/post-timeline.php:80
+msgid "Categories"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:112, elements/post-grid/post-grid.php:110, elements/post-timeline/post-timeline.php:92
+msgid "Tags"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:124, elements/post-grid/post-grid.php:122, elements/post-timeline/post-timeline.php:104
+msgid "Order"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:138, elements/post-grid/post-grid.php:136, elements/post-timeline/post-timeline.php:118
+msgid "Excerpt Words"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:147, elements/post-grid/post-grid.php:145, elements/post-timeline/post-timeline.php:127
+msgid "Ignore Sticky?"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:159, elements/team-carousel/team-carousel.php:364, elements/testimonial-carousel/testimonial-carousel.php:155
+msgid "Carousel Settings"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:166, elements/team-carousel/team-carousel.php:394
+msgid "Navigation Style"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:170, elements/team-carousel/team-carousel.php:399
+msgid "Arrows"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:171, elements/team-carousel/team-carousel.php:400
+msgid "Dots"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:184, elements/team-carousel/team-carousel.php:414
+msgid "Arrow Background"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:199, elements/team-carousel/team-carousel.php:429
+msgid "Dot Color"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:218, elements/team-carousel/team-carousel.php:448
+msgid "Arrow Hover"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:233, elements/team-carousel/team-carousel.php:463
+msgid "Dot Hover"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:253, elements/team-carousel/team-carousel.php:482, elements/testimonial-carousel/testimonial-carousel.php:193
+msgid "Transition Duration"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:262, elements/team-carousel/team-carousel.php:492, elements/testimonial-carousel/testimonial-carousel.php:202
+msgid "Autoplay"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:272, elements/team-carousel/team-carousel.php:501, elements/testimonial-carousel/testimonial-carousel.php:211
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:284, elements/team-carousel/team-carousel.php:513, elements/testimonial-carousel/testimonial-carousel.php:223
+msgid "Infinite Loop"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:293, elements/team-carousel/team-carousel.php:522, elements/testimonial-carousel/testimonial-carousel.php:232
+msgid "Pause on Hover"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:334
+msgid "Grid Background Color"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:347, elements/post-grid/post-grid.php:192
+msgid "Comment Hover Background"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:405, elements/post-grid/post-grid.php:248, elements/team-carousel/team-carousel.php:583, elements/team-member/team-member.php:382
+msgid "Hover Color"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:423, elements/post-grid/post-grid.php:266, elements/post-timeline/post-timeline.php:246
+msgid "Title Alignment"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:459, elements/post-grid/post-grid.php:302, elements/post-timeline/post-timeline.php:282
+msgid "Excerpt"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:495, elements/post-grid/post-grid.php:338, elements/post-timeline/post-timeline.php:318
+msgid "Justified"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:509, elements/post-grid/post-grid.php:352
+msgid "Category"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:516, elements/post-grid/post-grid.php:359
+msgid "Category Style"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:537, elements/post-grid/post-grid.php:380
+msgid "Background Color (Odd)"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:552, elements/post-grid/post-grid.php:395
+msgid "Background Color (Even)"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:568, elements/post-grid/post-grid.php:411
+msgid "Author & Date"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:575, elements/post-grid/post-grid.php:418
+msgid "Author Style"
+msgstr ""
+
+#: elements/post-carousel/post-carousel.php:596, elements/post-grid/post-grid.php:439
+msgid "Date Style"
+msgstr ""
+
+#: elements/post-grid/post-grid.php:14
+msgid "Post Grid"
+msgstr ""
+
+#: elements/post-grid/post-grid.php:59
+msgid "Number of Columns"
+msgstr ""
+
+#: elements/post-grid/post-grid.php:179, elements/post-timeline/post-timeline.php:148
+msgid "Post Background Color"
+msgstr ""
+
+#: elements/post-timeline/post-timeline.php:14
+msgid "Post Timeline"
+msgstr ""
+
+#: elements/post-timeline/post-timeline.php:161
+msgid "Bullet Background Color"
+msgstr ""
+
+#: elements/post-timeline/post-timeline.php:174
+msgid "Bullet Icon Color"
+msgstr ""
+
+#: elements/post-timeline/post-timeline.php:188
+msgid "Vertical Line Color"
+msgstr ""
+
+#: elements/post-timeline/post-timeline.php:201
+msgid "Horizontal Seprator Line Color"
+msgstr ""
+
+#: elements/post-timeline/post-timeline.php:233, elements/progress-bar/progress-bar.php:114, elements/tabs/tabs.php:302
+msgid "Title Color"
+msgstr ""
+
+#: elements/post-timeline/post-timeline.php:333
+msgid "Date"
+msgstr ""
+
+#: elements/post-timeline/post-timeline.php:354
+msgid "Year Color"
+msgstr ""
+
+#: elements/post-timeline/post-timeline.php:366
+msgid "Month Color"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:13
+msgid "Pricing Table"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:30, elements/pricing-table/pricing-table.php:316
+msgid "Header"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:64
+msgid "Featured?"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:66
+msgid "Works with Style 3"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:79
+msgid "Featured Text"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:82
+msgid "Featured"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:98, elements/pricing-table/pricing-table.php:105
+msgid "Price"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:108
+msgid "50"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:115
+msgid "Price Currency"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:118
+msgid "$"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:126
+msgid "Price By"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:129
+msgid "month"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:136
+msgid "Separated By"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:139
+msgid "/"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:151
+msgid "Features"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:170
+msgid "List Item"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:173
+msgid "Pricing table list item"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:177
+msgid "List Icon"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:184
+msgid "Item Active?"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:212
+msgid "Choose Plan"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:219
+msgid "Button Link"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:266
+msgid "Price Box Color"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:281
+msgid "Top Line Color"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:360
+msgid "Pricing"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:368
+msgid "Original Price"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:397
+msgid "Pricing By"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:434
+msgid "Feature List"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:454
+msgid "Disable item color"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:481
+msgid "Featured Badge"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:492
+msgid "Line Color"
+msgstr ""
+
+#: elements/pricing-table/pricing-table.php:510
+msgid "Font Size"
+msgstr ""
+
+#: elements/progress-bar/progress-bar.php:11, elements/progress-bar/progress-bar.php:41
+msgid "Progress Bar"
+msgstr ""
+
+#: elements/progress-bar/progress-bar.php:49, elements/progress-bar/progress-bar.php:200
+msgid "Value"
+msgstr ""
+
+#: elements/progress-bar/progress-bar.php:73
+msgid "Style Presets"
+msgstr ""
+
+#: elements/progress-bar/progress-bar.php:76
+msgid "Line"
+msgstr ""
+
+#: elements/progress-bar/progress-bar.php:77
+msgid "Line Bubble"
+msgstr ""
+
+#: elements/progress-bar/progress-bar.php:78
+msgid "Circle"
+msgstr ""
+
+#: elements/progress-bar/progress-bar.php:79
+msgid "Fan"
+msgstr ""
+
+#: elements/progress-bar/progress-bar.php:88
+msgid "Bubble Color"
+msgstr ""
+
+#: elements/progress-bar/progress-bar.php:138
+msgid "Front Bar"
+msgstr ""
+
+#: elements/progress-bar/progress-bar.php:169
+msgid "Back Bar"
+msgstr ""
+
+#: elements/tabs/tabs.php:13
+msgid "Tabs"
+msgstr ""
+
+#: elements/tabs/tabs.php:45
+msgid "Tab Title 1"
+msgstr ""
+
+#: elements/tabs/tabs.php:46
+msgid "Tab Title 2"
+msgstr ""
+
+#: elements/tabs/tabs.php:47
+msgid "Tab Title 3"
+msgstr ""
+
+#: elements/tabs/tabs.php:52
+msgid "Set as Default"
+msgstr ""
+
+#: elements/tabs/tabs.php:58
+msgid "Icon Type"
+msgstr ""
+
+#: elements/tabs/tabs.php:207, elements/tabs/tabs.php:253
+msgid "Bottom Border Color"
+msgstr ""
+
+#: elements/tabs/tabs.php:224
+msgid "Active"
+msgstr ""
+
+#: elements/tabs/tabs.php:269
+msgid "Bottom Left Color"
+msgstr ""
+
+#: elements/tabs/tabs.php:314
+msgid "Title Typography"
+msgstr ""
+
+#: elements/tabs/tabs.php:344
+msgid "Text Typography"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:11, elements/team-carousel/team-carousel.php:188
+msgid "Team Carousel"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:64, elements/team-carousel/team-carousel.php:274, elements/team-member/team-member.php:54, elements/team-member/team-member.php:249, elements/testimonial-carousel/testimonial-carousel.php:43
+msgid "Name"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:67, elements/team-member/team-member.php:57, elements/testimonial-carousel/testimonial-carousel.php:45
+msgid "John Doe"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:74, elements/team-carousel/team-carousel.php:304, elements/team-member/team-member.php:64, elements/team-member/team-member.php:279
+msgid "Designation"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:77, elements/team-member/team-member.php:67, elements/testimonial-carousel/testimonial-carousel.php:54
+msgid "My Designation"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:86, elements/team-carousel/team-carousel.php:195, elements/team-carousel/team-carousel.php:199, elements/team-carousel/team-carousel.php:203, elements/team-carousel/team-carousel.php:207, elements/team-member/team-member.php:76
+msgid "Add team member details here"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:93, elements/team-member/team-member.php:93
+msgid "Display Social Profiles?"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:102
+msgid "Facebook URL"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:119
+msgid "Twitter URL"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:136
+msgid "Instagram URL"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:153
+msgid "Linkedin URL"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:170
+msgid "Dribbble URL"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:194
+msgid "Member #1"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:198
+msgid "Member #2"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:202
+msgid "Member #3"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:206
+msgid "Member #4"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:233, elements/team-member/team-member.php:205, elements/testimonial-carousel/testimonial-carousel.php:261
+msgid "Circle Gradient"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:234, elements/team-member/team-member.php:206
+msgid "Social Left on Hover"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:235, elements/team-member/team-member.php:208
+msgid "Content on Hover"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:243, elements/team-member/team-member.php:216, elements/testimonial-carousel/testimonial-carousel.php:283
+msgid "Avatar Background Color"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:385, elements/testimonial-carousel/testimonial-carousel.php:179
+msgid "Items to Scroll"
+msgstr ""
+
+#: elements/team-carousel/team-carousel.php:536, elements/team-member/team-member.php:339
+msgid "Social"
+msgstr ""
+
+#: elements/team-member/team-member.php:10
+msgid "Team Member"
+msgstr ""
+
+#: elements/team-member/team-member.php:87
+msgid "Social Profiles"
+msgstr ""
+
+#: elements/team-member/team-member.php:178
+msgid "Place URL here"
+msgstr ""
+
+#: elements/team-member/team-member.php:204, elements/testimonial-carousel/testimonial-carousel.php:260
+msgid "Basic"
+msgstr ""
+
+#: elements/team-member/team-member.php:207
+msgid "Rounded"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:14, elements/testimonial-carousel/testimonial-carousel.php:124
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:52
+msgid "Client Details"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:61
+msgid "Client Avatar"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:87
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. duis aute irure dolor in reprehenderit in voluptate velit esse cillum."
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:94
+msgid "Display Rating?"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:104
+msgid "Rating Number"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:130
+msgid "Testimonial #1"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:131, elements/testimonial-carousel/testimonial-carousel.php:135, elements/testimonial-carousel/testimonial-carousel.php:139, elements/testimonial-carousel/testimonial-carousel.php:143
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:134
+msgid "Testimonial #2"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:138
+msgid "Testimonial #3"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:142
+msgid "Testimonial #4"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:183
+msgid "Above options work with Circle Gradient Style only"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:262
+msgid "Single Full Width"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:313
+msgid "Author Testimonial"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:343
+msgid "Author Name"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:373
+msgid "Author Designation"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:404
+msgid "Quote Icon"
+msgstr ""
+
+#: elements/testimonial-carousel/testimonial-carousel.php:412
+msgid "Icon size in pixels"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:11
+msgid "Tooltip"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:27
+msgid "Content Settings"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:34
+msgid "Content Type"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:43
+msgid "Text"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:60
+msgid "Hover Me!"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:146
+msgid "Show Link"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:178
+msgid "Tooltip Options"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:184
+msgid "Tooltip Text"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:187
+msgid "These are some dummy tooltip contents."
+msgstr ""
+
+#: elements/tooltip/tooltip.php:195
+msgid "Direction"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:202
+msgid "Top"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:203
+msgid "Bottom"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:223
+msgid "Content Width"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:389
+msgid "Tooltip Styles"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:397
+msgid "Tooltip Width"
+msgstr ""
+
+#: elements/tooltip/tooltip.php:494
+msgid "Arrow Color"
+msgstr ""
